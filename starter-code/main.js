@@ -8,8 +8,14 @@ var card4 = 'queen';
 var firstCardChosen = card1;
 var secondCardChosen = card2;
 
-if (firstCardChosen === secondCardChosen) {
-	alert('You found a match!');
-	} else {
-		alert('Sorry, try again.');
-	}
+// if (firstCardChosen === secondCardChosen) {
+// 	alert('You found a match!');
+// 	} else {
+// 		alert('Sorry, try again.');
+// 	}
+
+var board = document.getElementById('game-board');
+
+function makeBoard() {
+	for ()
+}
